@@ -1,0 +1,47 @@
+{
+  "loading_message": "Loading",
+  "login": {
+    "label": {
+      "email": "Email",
+      "password": "Password"
+    },
+    "title": {
+      "button": "Login",
+      "register_url": "Are you new? Register",
+      "title": "Login"
+    },
+    "help": {
+      "email_holder": "Enter E-mail",
+      "password_holder": "Enter password",
+      "password_length": "Password length"
+    }
+  },
+  "signin": {
+    "help": {
+      "name_required": "Name is required",
+      "name_length": "The name must contain at least two characters",
+      "email_required": "Email is required",
+      "email_valid": "Email must be correct",
+      "password_required": "Password is required",
+      "password_length": "Password must be at least 8 characters long",
+      "password_equal": "The confirmation password must match the password",
+      "password_confirmation_required": "Password confirmation required"
+    },
+    "label": {
+      "email": "Email",
+      "name": "Name",
+      "password": "Password",
+      "confirm_password": "Confirm Password"
+    },
+    "title": {
+      "button": "Register",
+      "login_url": "Do you have an account? Login"
+    }
+  },
+  "sidebar": {
+    "title": {
+      "home": "Home",
+      "users": "Users"
+    }
+  }
+}

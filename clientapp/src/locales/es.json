@@ -1,0 +1,30 @@
+{
+  "login": {
+    "label": {
+      "email": "Correo electrónico",
+      "password": "Contraseña"
+    },
+    "title": {
+      "button": "Acceder",
+      "register_url": "¿Eres nuevo? Regístrese",
+      "title": "Iniciar sesión"
+    },
+    "help": {
+      "email_holder": "Ingresar Correo eléctronico",
+      "password_holder": "Ingresar contraseña",
+      "password_length": "Password length"
+    }
+  },
+  "signin": {
+    "help": {
+      "name_required": "El nombre es requerido",
+      "name_length": "The name must contain at least two characters",
+      "email_required": "Email is required",
+      "email_valid": "Email must be correct",
+      "password_required": "Password is required",
+      "password_length": "Password must be at least 8 characters long",
+      "password_equal": "The confirmation password must match the password",
+      "password_confirmation_required": "Password confirmation required"
+    }
+  }
+}
