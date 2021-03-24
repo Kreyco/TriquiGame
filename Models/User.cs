@@ -23,5 +23,9 @@ namespace TriquiGame.Models
         public String Password { get; set; }
         [Column(TypeName = "nvarchar(100)")]
         public String Email { get; set; }
+        [Column(TypeName = "nvarchar(255)")]
+        public String Hash { get; set; }
+        [Column(TypeName = "nvarchar(255)")]
+        public String Salt { get; set; }
     }
 }

@@ -43,5 +43,13 @@
       "home": "Home",
       "users": "Users"
     }
+  },
+  "userlist": {
+    "title":{
+      "id": "ID",
+      "name": "Name",
+      "last_name": "LastName",
+      "email": "Email"
+    }
   }
 }

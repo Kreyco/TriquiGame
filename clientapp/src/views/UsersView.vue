@@ -1,7 +1,5 @@
 <template>
-<div>
   <UserList :users="users"/>
-</div>
 </template>
 
 <script>
@@ -34,6 +32,7 @@ export default {
           });
         })
         .catch((error) => {
+          // eslint-disable-next-line no-console
           console.log(error.response.data);
         });
     },

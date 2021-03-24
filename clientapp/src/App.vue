@@ -8,11 +8,11 @@
       <v-app-bar-nav-icon @click="drawer = !drawer" v-if="currentUser"></v-app-bar-nav-icon>
 
       <v-toolbar-title>
-        <v-icon class="deep-purple--text">mdi-square</v-icon>
+        <v-icon class="deep-purple--text">mdi-close</v-icon>
 
         <v-icon class="blue--text">mdi-circle</v-icon>
 
-        <v-icon class="light-blue--text">mdi-triangle</v-icon>
+        <v-icon class="light-blue--text">mdi-close</v-icon>
 
         {{ title }}
       </v-toolbar-title>
@@ -39,11 +39,11 @@
     >
       <div class="header purple">
         <v-toolbar-title>
-          <v-icon class="white--text">mdi-square</v-icon>
+          <v-icon class="white--text">mdi-close</v-icon>
 
           <v-icon class="white--text">mdi-circle</v-icon>
 
-          <v-icon class="white--text">mdi-triangle</v-icon>
+          <v-icon class="white--text">mdi-close</v-icon>
         </v-toolbar-title>
       </div>
       <div class="sidebar-nav">

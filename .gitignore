@@ -3,6 +3,8 @@
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
+logs
+*.log
 npm-debug.log
 yarn-error.log
 .idea
@@ -11,3 +13,14 @@ yarn-error.log
 /public/css
 public/js
 package-lock.json
+
+pids
+*.pid
+*.seed
+
+build/Release
+jspm_packages
+typings
+
+bin
+obj
